@@ -19,7 +19,7 @@ Le projet combine développement de jeu, simulation, apprentissage par neuroévo
 
 ## Installation
 
-Cloner le dépôt :
+### 1. Cloner le dépôt
 
 ```bash
 git clone https://github.com/louchenilounes/flappy_hell.git
